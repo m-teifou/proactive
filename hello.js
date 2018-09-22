@@ -1,0 +1,1 @@
+result = "Git Hello";
